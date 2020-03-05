@@ -1,5 +1,5 @@
 # Pytorch_Building_extraction
-Deep learning model FCN, U-net, Res-Unet for building extraction using satellite images
+Deep learning model for building extraction using satellite images
 # Environment requirements
 matplotlib
 numpy
