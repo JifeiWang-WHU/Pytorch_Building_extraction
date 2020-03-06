@@ -1,5 +1,5 @@
 # Pytorch_Building_extraction
-Graduation Thesis """Deep learning model for building extraction using satellite images"""
+Graduation Thesis: Deep learning model for building extraction using satellite images
 # Environment requirements
 pytorch
 # Experiment Model
@@ -12,6 +12,8 @@ UNet Architecture
 
 2.Residual-UNet
 Original paper by Foivos I. Diakogiannis, François Waldner, Peter Caccetta, Chen Wu:[https://arxiv.org/pdf/1711.10684.pdf]
-Resodial-UNet-a
+
+ResUNet network
+![Keras-Residual Unet/ResUNet-1 network.png]
 
 3.Classic algorithms：Edge detection, Morphological Building Index
