@@ -14,6 +14,6 @@ UNet Architecture
 Original paper by Foivos I. Diakogiannis, François Waldner, Peter Caccetta, Chen Wu:[https://arxiv.org/pdf/1711.10684.pdf]
 
 ResUNet network
-![Keras-Residual Unet/ResUNet-1 network.png]
+![residual unet](Keras-Residual Unet/ResUNet-1 network.png)
 
 3.Classic algorithms：Edge detection, Morphological Building Index
