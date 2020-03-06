@@ -4,6 +4,7 @@ import torch.nn.functional as F
 
 from .unet_parts import *
 
+--------"""构建UNet模型"""--------
 
 class UNet(nn.Module):
     def __init__(self, n_channels, n_classes, bilinear=True):
